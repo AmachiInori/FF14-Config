@@ -1,6 +1,6 @@
 @echo off
 
-if not exist ".cmd" (
+if not exist ".git" (
     git init
     git add .
     git commit -m "first, %date%, %time%"
