@@ -30,9 +30,9 @@ EventCameraAutoControl	1
 CameraLookBlinkType	0
 IdleEmoteTime	5
 IdleEmoteRandomType	0
-CutsceneSkipIsShip	0
-CutsceneSkipIsContents	0
-CutsceneSkipIsHousing	0
+CutsceneSkipIsShip	1
+CutsceneSkipIsContents	1
+CutsceneSkipIsHousing	1
 PetTargetOffInCombat	1
 GroundTargetFPSPosX	50000
 GroundTargetFPSPosY	50000
